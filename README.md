@@ -4,7 +4,7 @@ This project implements a full information retrieval (IR) pipeline for query-pas
 
 ---
 
-## 🔧 Project Structure and Techniques Used
+## Project Structure and Techniques Used
 
 ### 1. Retrieval Evaluation and Baseline Benchmarking
 - **Model**: BM25 (baseline retrieval model)
@@ -69,7 +69,7 @@ MAP = 0.0356, NDCG@10 = 0.0367
 
 ---
 
-## 📈 Summary of Results
+## Summary of Results
 
 | Model               | MAP    | NDCG@10 |
 |--------------------|--------|---------|
@@ -80,7 +80,7 @@ MAP = 0.0356, NDCG@10 = 0.0367
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 - Information Retrieval and Ranking
 - Feature Engineering with GloVe Embeddings
 - Model Evaluation: MAP, NDCG@10
@@ -93,7 +93,7 @@ MAP = 0.0356, NDCG@10 = 0.0367
 
 ---
 
-## 🗂️ Technologies Used
+## Technologies Used
 - Python, NumPy, Pandas
 - Scikit-learn, XGBoost
 - PyTorch
